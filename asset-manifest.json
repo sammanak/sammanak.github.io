@@ -1,19 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.0c7dcc7a.css",
-    "main.js": "/static/js/main.e1dc6ff4.js",
+    "main.css": "/static/css/main.c65d91b8.css",
+    "main.js": "/static/js/main.67a04fa2.js",
     "static/media/bg-introduction.jpeg": "/static/media/bg-introduction.df097ca58bf3686e3c6f.jpeg",
     "static/media/face-recognition.png": "/static/media/face-recognition.8f8ba48dc15abef08eb5.png",
     "static/media/bg-skills.jpeg": "/static/media/bg-skills.3b26d2e6265aaf3d6b58.jpeg",
-    "static/media/bg-about.jpeg": "/static/media/bg-about.3b999f2fd1457711dfcf.jpeg",
     "static/media/robofriends.png": "/static/media/robofriends.31c5ebd9b1b433ce80fd.png",
     "static/media/bg-portfolios.jpg": "/static/media/bg-portfolios.4e0b88e59f930960b71c.jpg",
     "index.html": "/index.html",
-    "main.0c7dcc7a.css.map": "/static/css/main.0c7dcc7a.css.map",
-    "main.e1dc6ff4.js.map": "/static/js/main.e1dc6ff4.js.map"
+    "main.c65d91b8.css.map": "/static/css/main.c65d91b8.css.map",
+    "main.67a04fa2.js.map": "/static/js/main.67a04fa2.js.map"
   },
   "entrypoints": [
-    "static/css/main.0c7dcc7a.css",
-    "static/js/main.e1dc6ff4.js"
+    "static/css/main.c65d91b8.css",
+    "static/js/main.67a04fa2.js"
   ]
 }
